@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Use Strong Passwords",
+    "content": "Create passwords with at least 12 characters, including uppercase, lowercase, numbers, and symbols. Avoid using personal info."
+  },
+  {
+    "title": "Enable Two-Factor Authentication (2FA)",
+    "content": "Always turn on 2FA for your accounts. Even if someone gets your password, they can't log in without the second step."
+  },
+  {
+    "title": "Think Before You Click",
+    "content": "Never click links from unknown emails or messages. Hover over links to see the real URL before clicking."
+  },
+  {
+    "title": "Use HTTPS Websites",
+    "content": "Only enter sensitive information on websites that start with 'https://' and show a padlock icon."
+  },
+  {
+    "title": "Keep Software Updated",
+    "content": "Regularly update your phone, apps, and antivirus. Updates fix security holes that hackers can exploit."
+  },
+  {
+    "title": "Avoid Public Wi-Fi for Sensitive Tasks",
+    "content": "Don't do banking or login on public Wi-Fi. Use a VPN if you must connect."
+  },
+  {
+    "title": "Be Careful with Email Attachments",
+    "content": "Don't open attachments from unknown senders. They may contain malware."
+  },
+  {
+    "title": "Use Antivirus Software",
+    "content": "Install and keep updated a reputable antivirus program to protect against viruses and malware."
+  },
+  {
+    "title": "Use Strong Passwords",
+    "content": "Create passwords with at least 12 characters, including uppercase, lowercase, numbers, and symbols. Avoid using personal info."
+  },
+  {
+    "title": "Enable Two-Factor Authentication (2FA)",
+    "content": "Always turn on 2FA for your accounts. Even if someone gets your password, they can't log in without the second step."
+  },
+  {
+    "title": "Think Before You Click",
+    "content": "Never click links from unknown emails or messages. Hover over links to see the real URL before clicking."
+  },
+  {
+    "title": "Use HTTPS Websites",
+    "content": "Only enter sensitive information on websites that start with 'https://' and show a padlock icon."
+  },
+  {
+    "title": "Keep Software Updated",
+    "content": "Regularly update your phone, apps, and antivirus. Updates fix security holes that hackers can exploit."
+  },
+  {
+    "title": "Avoid Public Wi-Fi for Sensitive Tasks",
+    "content": "Don't do banking or login on public Wi-Fi. Use a VPN if you must connect."
+  },
+  {
+    "title": "Be Careful with Email Attachments",
+    "content": "Don't open attachments from unknown senders. They may contain malware."
+  },
+  {
+    "title": "Use Antivirus Software",
+    "content": "Install and keep updated a reputable antivirus program to protect against viruses and malware."
+  },
+  {
+    "title": "Don’t Share Personal Info Online",
+    "content": "Avoid sharing ID numbers, bank details, or home address on social media or unknown sites."
+  },
+  {
+    "title": "Use a Password Manager",
+    "content": "Store strong, unique passwords for each account using a trusted password manager."
+  },
+  {
+    "title": "Beware of Phishing Emails",
+    "content": "Scammers pretend to be banks or companies. Never enter login details on pop-up forms."
+  },
+  {
+    "title": "Lock Your Devices",
+    "content": "Use PIN, fingerprint, or face ID to lock your phone and laptop. Enable auto-lock after 1 minute."
+  },
+  {
+    "title": "Backup Your Data",
+    "content": "Regularly back up important files to cloud or external drive. Ransomware can lock your data."
+  },
+  {
+    "title": "Use VPN on Public Networks",
+    "content": "A VPN encrypts your internet traffic, protecting you from hackers on public Wi-Fi."
+  },
+  {
+    "title": "Limit App Permissions",
+    "content": "Only allow apps to access camera, location, or microphone when necessary."
+  },
+  {
+    "title": "Avoid Free 'Cracked' Software",
+    "content": "Pirated apps often contain malware. Download only from official stores."
+  },
+  {
+    "title": "Use Incognito for Sensitive Searches",
+    "content": "Private browsing prevents saving history, cookies, or login data."
+  },
+  {
+    "title": "Report Suspicious Messages",
+    "content": "Forward spam or phishing SMS to 7726 (in many countries) to help stop scams."
+  },
+  {
+    "title": "Teach Kids About Online Safety",
+    "content": "Educate children not to talk to strangers online or share photos without permission."
+  },
+  {
+    "title": "Monitor Your Online Accounts",
+    "content": "Regularly check bank and email accounts for unusual activity."
+  }
+]
