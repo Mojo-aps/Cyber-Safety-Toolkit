@@ -1,0 +1,242 @@
+{
+  "en": {
+    "chatbot": {
+      "title": "AI Cyber Assistant",
+      "subtitle": "Ask anything about online safety — get instant AI-powered answers!",
+      "placeholder": "Type your question here...",
+      "sendBtn": "Send",
+      "welcome": "Hello! I'm your Cyber Safety Assistant. Ask me anything about online safety.",
+      "back": "Back to Home"
+    },
+    "phishing": {
+      "title": "Phishing URL Checker",
+      "subtitle": "Enter a link to check if it's safe or suspicious.",
+      "placeholder": "Enter URL here...",
+      "checkBtn": "Check Now",
+      "checking": "Checking...",
+      "safe": "Success: This link seems safe to visit.",
+      "unsafe": "Warning: This link looks suspicious. Avoid clicking!",
+      "back": "Back to Home"
+    },
+    "password": {
+      "title": "Password Strength Analyzer",
+      "subtitle": "Check how strong your password is.",
+      "placeholder": "Enter your password...",
+      "analyzeBtn": "Analyze",
+      "noPassword": "Please enter a password.",
+      "weak": "Weak",
+      "medium": "Medium",
+      "strong": "Strong",
+      "great": "Great! Your password is strong.",
+      "tips": "Tips:"
+    },
+    "awareness": {
+      "title": "Cyber Awareness Tips",
+      "subtitle": "Learn how to stay safe and smart online.",
+      "search": "Search tips...",
+      "back": "Back to Home"
+    },
+    "tips": [
+      {
+        "title": "Use Strong Passwords",
+        "content": "Create passwords with at least 12 characters — mix uppercase, lowercase, numbers, and symbols. Avoid personal info."
+      },
+      {
+        "title": "Enable Two-Factor Authentication (2FA)",
+        "content": "Turn on 2FA for all accounts. Even if password is stolen, hackers can't log in."
+      },
+      {
+        "title": "Think Before You Click",
+        "content": "Never click links in unknown emails or messages. Hover to see the real URL."
+      },
+      {
+        "title": "Use HTTPS Websites",
+        "content": "Only enter sensitive info on sites starting with 'https://' and showing a lock icon."
+      },
+      {
+        "title": "Keep Software Updated",
+        "content": "Regularly update phone, apps, and antivirus. Old software has security holes."
+      },
+      {
+        "title": "Be Careful on Public Wi-Fi",
+        "content": "Avoid banking or logging in on public Wi-Fi. Use a VPN if needed."
+      },
+      {
+        "title": "Open Email Attachments Carefully",
+        "content": "Never open attachments from unknown senders. They may contain malware."
+      },
+      {
+        "title": "Use Antivirus Software",
+        "content": "Install trusted antivirus and keep it updated."
+      },
+      {
+        "title": "Don't Share Personal Info",
+        "content": "Never share ID number, bank details, or address on unknown sites or social media."
+      },
+      {
+        "title": "Use a Password Manager",
+        "content": "Store unique strong passwords for each account using a trusted manager."
+      },
+      {
+        "title": "Beware of Phishing Emails",
+        "content": "Fake emails pretending to be from banks or companies. Never enter login info in pop-ups."
+      },
+      {
+        "title": "Lock Your Devices",
+        "content": "Use PIN, fingerprint, or face ID on phone and laptop. Enable auto-lock after 1 minute."
+      },
+      {
+        "title": "Backup Your Data",
+        "content": "Backup important files to cloud or external drive. Avoid data loss from ransomware."
+      },
+      {
+        "title": "Use VPN on Public Networks",
+        "content": "VPN encrypts your internet traffic. Stay safe from hackers on public Wi-Fi."
+      },
+      {
+        "title": "Limit App Permissions",
+        "content": "Only allow camera, location, or microphone access when necessary."
+      },
+      {
+        "title": "Avoid Cracked Software",
+        "content": "Pirated apps contain malware. Download only from official stores."
+      },
+      {
+        "title": "Use Incognito Mode",
+        "content": "Use private browsing for sensitive searches. History and cookies won't be saved."
+      },
+      {
+        "title": "Report Suspicious Messages",
+        "content": "Forward spam or phishing SMS to 7726. Help stop scams."
+      },
+      {
+        "title": "Teach Kids Online Safety",
+        "content": "Tell children not to talk to strangers or share photos online."
+      },
+      {
+        "title": "Monitor Your Accounts",
+        "content": "Regularly check bank and email accounts for unusual activity."
+      }
+    ]
+  },
+  "bn": {
+    "chatbot": {
+      "title": "এআই সাইবার সহকারী",
+      "subtitle": "অনলাইন নিরাপত্তা নিয়ে যেকোনো প্রশ্ন করো — তাৎক্ষণিক উত্তর পাও!",
+      "placeholder": "এখানে প্রশ্ন লিখুন...",
+      "sendBtn": "পাঠান",
+      "welcome": "হ্যালো! আমি তোমার সাইবার নিরাপত্তা সহকারী। অনলাইন নিরাপত্তা নিয়ে যেকোনো প্রশ্ন করো।",
+      "back": "হোমে ফিরে যাও"
+    },
+    "phishing": {
+      "title": "ফিশিং URL চেকার",
+      "subtitle": "লিংকটি নিরাপদ না সন্দেহজনক তা যাচাই করো।",
+      "placeholder": "এখানে URL লিখুন...",
+      "checkBtn": "এখনই চেক করো",
+      "checking": "যাচাই করা হচ্ছে...",
+      "safe": "সফল: এই লিংকটি নিরাপদ বলে মনে হচ্ছে।",
+      "unsafe": "সতর্কতা: এই লিংকটি সন্দেহজনক। ক্লিক করবেন না!",
+      "back": "হোমে ফিরুন"
+    },
+    "password": {
+      "title": "পাসওয়ার্ড শক্তি বিশ্লেষক",
+      "subtitle": "তোমার পাসওয়ার্ড কতটা শক্তিশালী তা পরীক্ষা করো।",
+      "placeholder": "তোমার পাসওয়ার্ড লিখুন...",
+      "analyzeBtn": "বিশ্লেষণ করো",
+      "noPassword": "একটি পাসওয়ার্ড লিখুন।",
+      "weak": "দুর্বল",
+      "medium": "মাঝারি",
+      "strong": "শক্তিশালী",
+      "great": "দারুণ! তোমার পাসওয়ার্ড শক্তিশালী।",
+      "tips": "টিপস:"
+    },
+    "awareness": {
+      "title": "সাইবার সচেতনতা টিপস",
+      "subtitle": "অনলাইনে নিরাপদ ও স্মার্ট থাকার উপায় শেখো।",
+      "search": "টিপস খুঁজুন...",
+      "back": "হোমে ফিরে যাও"
+    },
+    "tips": [
+      {
+        "title": "শক্তিশালী পাসওয়ার্ড ব্যবহার করুন",
+        "content": "কমপক্ষে ১২ অক্ষরের পাসওয়ার্ড তৈরি করুন — বড় হাতের, ছোট হাতের, সংখ্যা ও চিহ্ন মিশিয়ে। ব্যক্তিগত তথ্য ব্যবহার করবেন না।"
+      },
+      {
+        "title": "টু-ফ্যাক্টর অথেনটিকেশন (2FA) চালু করুন",
+        "content": "সব অ্যাকাউন্টে 2FA চালু রাখুন। পাসওয়ার্ড চুরি হলেও হ্যাকার লগইন করতে পারবে না।"
+      },
+      {
+        "title": "ক্লিক করার আগে ভাবুন",
+        "content": "অজানা ইমেইল বা মেসেজের লিংকে ক্লিক করবেন না। লিংকের উপর হোভার করে আসল URL দেখুন।"
+      },
+      {
+        "title": "HTTPS ওয়েবসাইট ব্যবহার করুন",
+        "content": "শুধুমাত্র 'https://' দিয়ে শুরু হওয়া ও তালা আইকনযুক্ত সাইটে গোপন তথ্য দিন।"
+      },
+      {
+        "title": "সফটওয়্যার আপডেট রাখুন",
+        "content": "ফোন, অ্যাপ ও অ্যান্টিভাইরাস নিয়মিত আপডেট করুন। পুরনো সফটওয়্যারে নিরাপত্তার ফাঁক থাকে।"
+      },
+      {
+        "title": "পাবলিক Wi-Fi-এ সতর্ক থাকুন",
+        "content": "পাবলিক Wi-Fi-এ ব্যাংকিং বা লগইন করবেন না। দরকার হলে VPN ব্যবহার করুন।"
+      },
+      {
+        "title": "ইমেইল অ্যাটাচমেন্ট সাবধানে খুলুন",
+        "content": "অজানা প্রেরকের অ্যাটাচমেন্ট খুলবেন না। এতে ম্যালওয়্যার থাকতে পারে।"
+      },
+      {
+        "title": "অ্যান্টিভাইরাস ব্যবহার করুন",
+        "content": "বিশ্বস্ত অ্যান্টিভাইরাস ইনস্টল করে নিয়মিত আপডেট রাখুন।"
+      },
+      {
+        "title": "ব্যক্তিগত তথ্য শেয়ার করবেন না",
+        "content": "আইডি নম্বর, ব্যাংক তথ্য বা ঠিকানা অজানা সাইটে বা সোশ্যাল মিডিয়ায় শেয়ার করবেন না।"
+      },
+      {
+        "title": "পাসওয়ার্ড ম্যানেজার ব্যবহার করুন",
+        "content": "প্রতি অ্যাকাউন্টের জন্য আলাদা শক্তিশালী পাসওয়ার্ড সংরক্ষণ করতে বিশ্বস্ত ম্যানেজার ব্যবহার করুন।"
+      },
+      {
+        "title": "ফিশিং ইমেইল থেকে সাবধান",
+        "content": "ব্যাংক বা কোম্পানির নামে জাল ইমেইল আসে। লগইন তথ্য কখনো পপ-আপে দিবেন না।"
+      },
+      {
+        "title": "ডিভাইস লক করুন",
+        "content": "ফোন ও ল্যাপটপে পিন, ফিঙ্গারপ্রিন্ট বা ফেস আইডি ব্যবহার করুন। ১ মিনিট পর অটো-লক চালু করুন।"
+      },
+      {
+        "title": "ডেটা ব্যাকআপ রাখুন",
+        "content": "গুরুত্বপূর্ণ ফাইল ক্লাউড বা এক্সটার্নাল ড্রাইভে ব্যাকআপ করুন। র‍্যানসমওয়্যার আক্রমণে ডেটা হারাবেন না।"
+      },
+      {
+        "title": "পাবলিক নেটওয়ার্কে VPN ব্যবহার করুন",
+        "content": "VPN তোমার ইন্টারনেট ট্রাফিক এনক্রিপ্ট করে। পাবলিক Wi-Fi-এ হ্যাকার থেকে রক্ষা পাও।"
+      },
+      {
+        "title": "অ্যাপের অনুমতি সীমিত করুন",
+        "content": "ক্যামেরা, লোকেশন বা মাইক্রোফোন শুধু প্রয়োজন হলে অ্যাপকে দিন।"
+      },
+      {
+        "title": "ফ্রি 'ক্র্যাকড' সফটওয়্যার এড়িয়ে চলুন",
+        "content": "পাইরেটেড অ্যাপে ম্যালওয়্যার থাকে। শুধু অফিসিয়াল স্টোর থেকে ডাউনলোড করো।"
+      },
+      {
+        "title": "ইনকগনিটো মোড ব্যবহার করুন",
+        "content": "গোপন সার্চের জন্য প্রাইভেট ব্রাউজিং ব্যবহার করো। হিস্ট্রি বা কুকি সেভ হবে না।"
+      },
+      {
+        "title": "সন্দেহজনক মেসেজ রিপোর্ট করুন",
+        "content": "স্প্যাম বা ফিশিং SMS ৭৭২৬ নম্বরে ফরওয়ার্ড করো। স্ক্যাম বন্ধে সাহায্য করো।"
+      },
+      {
+        "title": "শিশুদের অনলাইন নিরাপত্তা শেখাও",
+        "content": "বাচ্চাদের অপরিচিতদের সাথে কথা বলতে বা ছবি শেয়ার করতে নিষেধ করো।"
+      },
+      {
+        "title": "অ্যাকাউন্ট মনিটর করুন",
+        "content": "ব্যাংক ও ইমেইল অ্যাকাউন্টে অস্বাভাবিক কার্যকলাপ নিয়মিত চেক করো।"
+      }
+    ]
+  }
+}
